@@ -1,7 +1,11 @@
 # 免责声明 / Disclaimer
 
-本项目是一个独立的、非官方的互操作性实验项目。
+本项目是一个独立的、非官方的互操作性实验项目，由 **AI 辅助实现**，作者仅用于自用、学习和交流。
 
+- 不是商业产品，没有官方支持。
+- 只在 Furina（芙宁娜·不休独舞）和 BudsFeel MK2 上测试过；没有更多机型测试，也没有完整兼容性验证。
+- 不承诺后续更新、bug 修复、新机型适配或长期维护。
+- 仅供学习、研究和技术交流；任何人可以自由使用、修改和再发布，风险自担。
 - 与任何耳机品牌及其关联公司没有隶属、合作、赞助或认可关系。
 - 不包含任何官方 APK、PC 程序、反编译源码、官方图标、官方宣传素材或官方账号数据。
 - 不包含加密密钥、认证凭据、账号信息或绕过技术措施的工具。
@@ -14,7 +18,7 @@
 
 ---
 
-This is an independent, unofficial interoperability project.
+This is an independent, unofficial interoperability project, implemented with AI assistance. It is a personal-use and learning project, tested only on Furina and BudsFeel MK2. No further updates are planned, and no warranty is provided. Anyone may use, modify, or redistribute it under the MIT License, at their own risk.
 
 It is not affiliated with, endorsed by, or sponsored by any earbud manufacturer. It contains no official binaries, decompiled source, official icons, or account data. Protocol constants were derived from public advertisements, GATT enumeration, and interoperability testing. All trademarks belong to their respective owners.
 
