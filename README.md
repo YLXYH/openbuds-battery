@@ -1,8 +1,24 @@
 # Buds Battery Dock
 
+### 弱水时砂 / Rose Technics 耳机电量坞（非官方兼容）
+
 一个**非官方、非商业**的 Android 耳机电量工具。通过 BLE 或经典蓝牙 SPP 读取部分耳机的左耳、右耳和充电仓电量，在通知栏和桌面仪表盘显示。
 
-> 本项目与任何耳机品牌及其关联公司都没有关系，也未获得其授权或认可。所有商标归各自所有者。
+**适用品牌 / 兼容生态：弱水时砂、Rose Technics、RoseLink 生态的部分耳机。**
+
+已实测或明确适配的型号：
+
+| 品牌 / 生态 | 型号 | 连接方式 |
+|---|---|---|
+| 弱水时砂 / Rose Technics | Furina Endless Solo of Solitude（芙宁娜·不休独舞） | 经典蓝牙 SPP |
+| 弱水时砂 / Rose Technics | BudsFeel MK2 | BLE 私有电量帧 |
+| 同协议机型 | 使用 `00FE/F1/F2` BLE 或 `rs-common-v2` SPP 的机型 | 协议级兼容 |
+
+> 兼容不等于官方支持，也不代表所有弱水时砂型号都能用。
+>
+> 本项目与弱水时砂 / Rose Technics 及其关联公司没有隶属、合作、赞助或授权关系。品牌名和型号名仅用于说明兼容设备，所有商标归各自所有者。不要将本项目误认为官方 RoseLink 替代品。
+
+**搜索关键词：** 弱水时砂电量、弱水时砂耳机电量、Rose Technics 电量、RoseLink 电量、Furina 电量、芙宁娜电量、BudsFeel MK2 电量、Android 耳机电量坞。
 
 ## 功能
 
