@@ -1,0 +1,20 @@
+# Build output
+build/
+*.apk
+*.aab
+
+# Signing material — never commit
+keystore/
+*.jks
+*.keystore
+
+# Local SDK / IDE
+.gradle/
+.idea/
+local.properties
+*.iml
+
+# Logs and temporary captures
+*.log
+.tmp/
+captures/

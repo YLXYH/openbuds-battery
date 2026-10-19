@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ink">#F6F2EB</color>
+    <color name="surface">#FFFEFB</color>
+    <color name="copper">#B06A28</color>
+    <color name="left">#B96C16</color>
+    <color name="right">#238A75</color>
+    <color name="case_accent">#536FBE</color>
+    <color name="text_primary">#20242A</color>
+    <color name="text_muted">#6C7480</color>
+    <color name="icon_bg">#FAF9F7</color>
+</resources>

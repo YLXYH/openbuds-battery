@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Buds Battery Dock</string>
+    <string name="channel_name">耳机电量</string>
+    <string name="channel_desc">在通知栏常驻显示耳机左耳、右耳和充电仓电量</string>
+    <string name="notif_title">Buds Battery Dock</string>
+    <string name="notif_waiting">等待耳机连接</string>
+    <string name="notif_refresh">刷新</string>
+    <string name="notif_open">打开</string>
+    <string name="device_default">耳机</string>
+</resources>
